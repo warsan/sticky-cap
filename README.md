@@ -1,2 +1,4 @@
 # sticky-cap
-Created with CodeSandbox
+
+Создано с помощью CodeSandbox
+Пустой репоз для экспериментов.
